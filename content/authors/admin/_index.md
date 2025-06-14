@@ -41,14 +41,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:pieter.de.vis@npl.co.uk'
-  - icon: researchgate
-    icon_pack: fa
+  - icon: academicons/researchgate
     link: https://www.researchgate.net/profile/Pieter-De-Vis
-  - icon: google-scholar
-    icon_pack: fa
+  - icon: academicons/google-scholar
     link: https://scholar.google.com/citations?user=O7SNRRcAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
+  - icon: brands/github
     link: https://github.com/pdevis
     
 # Link to a PDF of your resume/CV from the About widget.
