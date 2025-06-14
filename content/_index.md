@@ -16,7 +16,7 @@ sections:
         label: Get Started
         url: user-guide/getting-started
         icon-pack: fas
-        icon: rocket-launch
+        icon: rocket
       # secondary_action:
       #   text: Read the docs
       #   url: https://docs.hugoblox.com
@@ -27,7 +27,7 @@ sections:
           url: "latest-news/"
     design:
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [5, 5, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
