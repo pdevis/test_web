@@ -58,23 +58,24 @@ sections:
     #   # Reduce spacing
     #   spacing:
     #     padding: ["1rem", 0, "1rem", 0]
-  - block: cta-image-paragraph
+  
+  - block: markdown
     id: about
     content:
       items:
         - title: Community Metrology Toolkit
           text: An open-source software project for assessing data uncertainties.
-          feature_icon: check
-          features:
-            - "Handle, propagate & store measurement uncertainties"
-            - "Take into account error-correlation information"
-          # Upload image to `assets/media/` and reference the filename here
-          image: build-website.png
-          caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
-          button:
-            text: Learn More
-            url: about/
-            icon: rocket-launch
+#          feature_icon: check
+#          features:
+#            - "Handle, propagate & store measurement uncertainties"
+#            - "Take into account error-correlation information"
+#          # Upload image to `assets/media/` and reference the filename here
+#          image: build-website.png
+#          caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+#          button:
+#            text: Learn More
+#            url: about/
+#            icon: rocket-launch
   - block: features
     id: tools
     content:
@@ -112,23 +113,23 @@ sections:
     #   # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
 
-  - block: cta-image-paragraph
+  - block: markdown
     id: examples
     content:
       items:
         - title: Exploring the possibilities!
-          text: CoMet can be used to
-          feature_icon: bolt
-          features:
+          text: 
+          CoMet can be used to:
             - "Propagate uncertainties"
             - "Handle error-correlation/error-covariance matrices"
             - "Create digital effects tables"
             - "Validate measurements"
+          {{% cta cta_link="user-guide/examples/" cta_text="More applications" %}}
           # Upload image to `assets/media/` and reference the filename here
           image: coffee.jpg
           caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
-          button:
-            text: More applications
-            url: user-guide/examples/
-            icon: rocket-launch
+#          button:
+#            text: More applications
+#            url: user-guide/examples/
+#            icon: rocket-launch
 ---
