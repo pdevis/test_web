@@ -45,10 +45,10 @@ social:
 #    icon_pack: fab
 #    link: 
   - icon: researchgate
-    icon_pack: ai
+    icon_pack: fa
     link: https://www.researchgate.net/profile/Madeline-Stedman
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: fa
     link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=YKptbJ8AAAAJ
   - icon: github
     icon_pack: fab

@@ -42,10 +42,10 @@ social:
     icon_pack: fas
     link: 'mailto:pieter.de.vis@npl.co.uk'
   - icon: researchgate
-    icon_pack: ai
+    icon_pack: fa
     link: https://www.researchgate.net/profile/Pieter-De-Vis
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: fa
     link: https://scholar.google.com/citations?user=O7SNRRcAAAAJ&hl=en
   - icon: github
     icon_pack: fab

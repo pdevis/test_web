@@ -45,10 +45,10 @@ social:
 #    icon_pack: fab
 #    link: 
   - icon: researchgate
-    icon_pack: ai
+    icon_pack: fa
     link: https://www.researchgate.net/profile/Samuel-Hunt
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: fa
     link: https://scholar.google.com/citations?user=4uBgpCEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
