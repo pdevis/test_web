@@ -116,7 +116,7 @@ sections:
     #   # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
 
-  - block: markdown
+  - block: cta-image-paragraph
     id: examples
     content:
       items:
