@@ -85,7 +85,8 @@ sections:
       text: A list of tools which abstract away the complexity of dealing with uncertainties.
       items:
         - name: punpy
-          icon: star
+          icon: punpy
+          icon_pack: custom
           description: propagates uncertainties on input quantities through any python function, evaluating the uncertainty on the output
         - name: obsarray
           icon: sparkles
