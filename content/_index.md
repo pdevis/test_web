@@ -12,7 +12,7 @@ sections:
     content:
       title: CoMet
       text: Uncertainties made easy!
-      primary_action:
+      cta:
         text: Get Started
         url: user-guide/getting-started
         icon: rocket-launch
