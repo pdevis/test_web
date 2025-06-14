@@ -17,6 +17,7 @@ sections:
         url: user-guide/getting-started
         icon-pack: fas
         icon: rocket
+        color: blue
       # secondary_action:
       #   text: Read the docs
       #   url: https://docs.hugoblox.com
