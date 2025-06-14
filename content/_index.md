@@ -124,7 +124,7 @@ sections:
             - "Handle error-correlation/error-covariance matrices"
             - "Create digital effects tables"
             - "Validate measurements"
-          {{% cta cta_link="user-guide/examples/" cta_text="More applications" %}}
+#          {{% cta cta_link="user-guide/examples/" cta_text="More applications" %}}
           # Upload image to `assets/media/` and reference the filename here
           image: coffee.jpg
           caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
