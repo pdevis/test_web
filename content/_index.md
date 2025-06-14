@@ -21,14 +21,14 @@ sections:
       # secondary_action:
       #   text: Read the docs
       #   url: https://docs.hugoblox.com
-      announcement:
-        text: "For the latest updates"
-        link:
-          text: "click here"
-          url: "latest-news/"
+#      announcement:
+#        text: "For the latest updates"
+#        link:
+#          text: "click here"
+#          url: "latest-news/"
     design:
       spacing:
-        padding: [5, 5, 0, 0]
+        padding: [20, 20, 20, 20]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
