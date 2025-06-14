@@ -13,8 +13,9 @@ sections:
       title: CoMet
       text: Uncertainties made easy!
       cta:
-        text: Get Started
+        label: Get Started
         url: user-guide/getting-started
+        icon-pack: fas
         icon: rocket-launch
       # secondary_action:
       #   text: Read the docs
